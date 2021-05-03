@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Hello_World</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MathParser.org-mXparser">
+      <HintPath>..\..\MathParser.org-mXparser-v.4.4.0\bin\netcoreapp2.1\MathParser.org-mXparser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
