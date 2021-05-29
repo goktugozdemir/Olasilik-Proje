@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\bin\Debug\netcoreapp3.1\OlasılıkVeİstatistik.exe
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\bin\Debug\netcoreapp3.1\OlasılıkVeİstatistik.deps.json
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\bin\Debug\netcoreapp3.1\OlasılıkVeİstatistik.runtimeconfig.json
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\bin\Debug\netcoreapp3.1\OlasılıkVeİstatistik.runtimeconfig.dev.json
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\bin\Debug\netcoreapp3.1\OlasılıkVeİstatistik.dll
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\bin\Debug\netcoreapp3.1\OlasılıkVeİstatistik.pdb
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.AssemblyInfo.cs
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.dll
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.pdb
+C:\Users\pc\source\repos\OlasılıkVeİstatistik\OlasılıkVeİstatistik\obj\Debug\netcoreapp3.1\OlasılıkVeİstatistik.genruntimeconfig.cache
